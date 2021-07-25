@@ -1,0 +1,29 @@
+body {
+  box-sizing: border-box;
+}
+header {
+  background: url(1.jpg);
+  height: 50vh;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* align-items: center; */
+}
+li {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h1,
+p {
+  color: white;
+}
+h2 {
+  text-align: center;
+}
